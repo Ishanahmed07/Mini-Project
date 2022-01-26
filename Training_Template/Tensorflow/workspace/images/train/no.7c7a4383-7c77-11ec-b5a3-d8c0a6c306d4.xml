@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CollectedImages</folder>
+	<filename>no.7c7a4383-7c77-11ec-b5a3-d8c0a6c306d4.jpg</filename>
+	<path>D:\study material\C language\Mini Project\MINI PROJECT\Training_Template\Tensorflow\workspace\images\CollectedImages\no.7c7a4383-7c77-11ec-b5a3-d8c0a6c306d4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>164</ymin>
+			<xmax>591</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

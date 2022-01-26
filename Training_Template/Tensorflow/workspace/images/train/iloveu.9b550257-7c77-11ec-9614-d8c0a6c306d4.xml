@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CollectedImages</folder>
+	<filename>iloveu.9b550257-7c77-11ec-9614-d8c0a6c306d4.jpg</filename>
+	<path>D:\study material\C language\Mini Project\MINI PROJECT\Training_Template\Tensorflow\workspace\images\CollectedImages\iloveu.9b550257-7c77-11ec-9614-d8c0a6c306d4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iloveu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>222</ymin>
+			<xmax>613</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
