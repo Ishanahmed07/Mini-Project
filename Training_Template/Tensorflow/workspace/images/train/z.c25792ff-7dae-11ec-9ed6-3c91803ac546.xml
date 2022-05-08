@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>z.c25792ff-7dae-11ec-9ed6-3c91803ac546.jpg</filename>
+	<path>C:\Users\LENOVO\Desktop\MHSS\MINI PROJECT 1A\MAIN\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\z.c25792ff-7dae-11ec-9ed6-3c91803ac546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>246</ymin>
+			<xmax>372</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

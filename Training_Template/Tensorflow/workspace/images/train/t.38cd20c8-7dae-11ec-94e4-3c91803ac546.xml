@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>t.38cd20c8-7dae-11ec-94e4-3c91803ac546.jpg</filename>
+	<path>C:\Users\LENOVO\Desktop\MHSS\MINI PROJECT 1A\MAIN\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\t.38cd20c8-7dae-11ec-94e4-3c91803ac546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>275</ymin>
+			<xmax>442</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>
